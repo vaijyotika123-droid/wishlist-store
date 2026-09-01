@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Wool Throw Blanket">
+<rect width="600" height="600" fill="#f4f1eb"/>
+<g color="#4a4a45"><rect x="130" y="150" width="340" height="300" rx="12" fill="none" stroke="currentColor" stroke-width="18"/><path d="M130 215h340M130 280h340M130 345h340M200 150v300M270 150v300M340 150v300M410 150v300" stroke="currentColor" stroke-width="10" opacity=".75"/><path d="M120 455h360" stroke="currentColor" stroke-width="18"/></g>
+<text x="300" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6a685f">Wool Throw Blanket</text>
+</svg>

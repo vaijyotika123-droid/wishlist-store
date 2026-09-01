@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Trail Runner Sneakers">
+<rect width="600" height="600" fill="#f4f1eb"/>
+<g color="#4a4a45"><path d="M130 390c55-5 80-60 112-120l50-100 75 80c35 37 85 55 150 80 55 22 75 52 58 78-18 27-90 32-175 32H160c-50 0-65-30-30-50z" fill="none" stroke="currentColor" stroke-width="18" stroke-linejoin="round"/><path d="M295 190l80 80M260 235l80 80M215 285l75 75" stroke="currentColor" stroke-width="12"/></g>
+<text x="300" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6a685f">Trail Runner Sneakers</text>
+</svg>

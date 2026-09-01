@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Portable Bluetooth Speaker">
+<rect width="600" height="600" fill="#f4f1eb"/>
+<g color="#4a4a45"><rect x="175" y="145" width="250" height="280" rx="50" fill="none" stroke="currentColor" stroke-width="18"/><circle cx="300" cy="245" r="48" fill="none" stroke="currentColor" stroke-width="14"/><circle cx="300" cy="245" r="10" fill="currentColor"/><circle cx="300" cy="350" r="28" fill="none" stroke="currentColor" stroke-width="12"/><path d="M210 165h180" stroke="currentColor" stroke-width="10" opacity=".5"/></g>
+<text x="300" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6a685f">Portable Bluetooth Speaker</text>
+</svg>

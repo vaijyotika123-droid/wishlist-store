@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Canvas Field Jacket">
+<rect width="600" height="600" fill="#f4f1eb"/>
+<g color="#4a4a45"><path d="M245 205l-70 35-55 145 65 28 30-78v170h170V335l30 78 65-28-55-145-70-35-25 55h-65z" fill="none" stroke="currentColor" stroke-width="18" stroke-linejoin="round"/><path d="M260 205l35 55 35-55" fill="none" stroke="currentColor" stroke-width="18"/><path d="M260 300h70M245 370h100" stroke="currentColor" stroke-width="14"/></g>
+<text x="300" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6a685f">Canvas Field Jacket</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Merino Crew Socks">
+<rect width="600" height="600" fill="#f4f1eb"/>
+<g color="#4a4a45"><path d="M245 120v180l-55 85c-25 38 0 75 50 75h75c35 0 55-24 48-52l-28-108V120zM355 120v160l45 90c20 40 0 75-45 75h-65" fill="none" stroke="currentColor" stroke-width="18" stroke-linejoin="round"/><path d="M245 180h90M245 235h90" stroke="currentColor" stroke-width="12"/></g>
+<text x="300" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6a685f">Merino Crew Socks</text>
+</svg>
