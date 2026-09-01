@@ -64,7 +64,7 @@ Everything is kept under one `localStorage` key (`wishlist-store:v1`) as:
 ```json
 {
   "wishlists": [
-    { "id": "...", "name": "Favorites", "items": [{ "productId": "p-01", "addedAt": 1737000000000 }] }
+    { "id": "...", "name": "Favorites", "items": [{ "productId": "p-01" }] }
   ],
   "nextWishlistNumber": 2
 }
