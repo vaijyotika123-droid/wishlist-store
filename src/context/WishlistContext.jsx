@@ -143,7 +143,7 @@ export function WishlistProvider({ children }) {
     commit({
       wishlists: prev.wishlists.map((w) =>
         w.id === wishlistId
-          ? { ...w, items: [...w.items, { productId, addedAt: Date.now() }] }
+          ? { ...w, items: [...w.items, { productId }] }
           : w
       ),
     })
@@ -176,7 +176,7 @@ export function WishlistProvider({ children }) {
           return { ...w, items: w.items.filter((item) => item.productId !== productId) }
         }
         if (w.id === toWishlistId) {
-          return { ...w, items: [...w.items, { productId, addedAt: Date.now() }] }
+          return { ...w, items: [...w.items, { productId }] }
         }
         return w
       }),
@@ -201,7 +201,7 @@ export function WishlistProvider({ children }) {
     for (const item of [...first.items, ...second.items]) {
       if (seen.has(item.productId)) continue
       seen.add(item.productId)
-      mergedItems.push({ productId: item.productId, addedAt: item.addedAt })
+      mergedItems.push({ productId: item.productId})
     }
 
     const trimmed = (rawName || '').trim()
